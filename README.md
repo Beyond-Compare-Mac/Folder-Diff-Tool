@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tammybutle.github.io/.github/beyondcompare">  
+<a href="https://crissyarp.github.io/.github/beyondcompare">  
 <img src="https://img.shields.io/badge/GET_Beyond_Compare-darkgreen?style=for-the-badge&logo=apple" alt="GET Beyond Compare">  
 </a>  
 </div>  
